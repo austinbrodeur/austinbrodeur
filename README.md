@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @austinbrodeur
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning the MERN stack.
 - 📫 You can reach me at austinbrodeur@shaw.ca
 
 <!---
